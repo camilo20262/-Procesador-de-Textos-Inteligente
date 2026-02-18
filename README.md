@@ -26,17 +26,18 @@ Antes de ejecutar el proyecto, asegúrate de contar con:
 - Una clave de API válida para Google Gemini
 - Instalación de la librería requerida:
 
-```bash
-pip install google-genai
-📂 Estructura del Proyecto
-gemini-python-project/
-│
-├── main.py
-├── procesador_textos.py
-├── chat_soporte.py
-└── README.md
 🖼️ Evidencia – Ejercicio 1
 
-Inserta aquí las capturas correspondientes a la ejecución del script
+![Evidencia de ejecución del script](ejercicio_uno.png)
 
-![Evidencia de ejecución del script](ejercicio uno.png)
+🖼️ Evidencia – Ejercicio 2
+
+![Evidencia de ejecución del script](ejercicio_dos.png)
+
+🖼️ Evidencia – Ejercicio 3
+
+![Evidencia de ejecución del script](ejercicio_tres.png)
+
+```bash
+pip install google-genai
+
